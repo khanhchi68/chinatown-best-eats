@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Dim Sum Garden",
+      "description": "Famous for soup dumplings and authentic dim sum dishes.",
+      "image": "dimsum.jpg",
+      "menu": "https://dimsumgardenphilly.com"
+    },
+    {
+      "id": 2,
+      "name": "Nan Zhou Hand Drawn Noodles",
+      "description": "Hand-pulled noodles and flavorful broth make this a must-visit.",
+      "image": "nanzhou.jpg",
+      "menu": "https://www.nanzhounoodle.com"
+    },
+    {
+      "id": 3,
+      "name": "Chengdu Famous Food",
+      "description": "Authentic Sichuan cuisine known for its spicy flavors.",
+      "image": "chengdu.jpg",
+      "menu": "https://www.chengduphilly.com"
+    },
+    {
+      "id": 4,
+      "name": "Terakawa Ramen",
+      "description": "Rich and flavorful Japanese ramen spot in Chinatown.",
+      "image": "terakawa.jpg",
+      "menu": "https://terakawaramen.com"
+    },
+    {
+      "id": 5,
+      "name": "Tai Lake",
+      "description": "A seafood-focused Cantonese restaurant with a wide variety of dishes.",
+      "image": "tailake.jpg",
+      "menu": "http://www.tailakeseafoodrest.com"
+    },
+    {
+      "id": 6,
+      "name": "Bubblefish",
+      "description": "Trendy bubble tea spot offering sushi burritos and poke bowls.",
+      "image": "bubblefish.jpg",
+      "menu": "https://www.bubblefishpa.com"
+    },
+    {
+      "id": 7,
+      "name": "Emei",
+      "description": "A top destination for fiery Sichuan hot pots and stir-fries.",
+      "image": "emei.jpg",
+      "menu": "https://emeiphilly.com"
+    },
+    {
+      "id": 8,
+      "name": "Vivi Bubble Tea",
+      "description": "A go-to spot for unique bubble tea flavors and Taiwanese snacks.",
+      "image": "vivi.jpg",
+      "menu": "https://vivibubbletea.com"
+    },
+    {
+      "id": 9,
+      "name": "Spice C",
+      "description": "Hand-pulled biang biang noodles with flavorful and spicy sauces.",
+      "image": "spicec.jpg",
+      "menu": "https://spicectogo.com"
+    },
+    {
+      "id": 10,
+      "name": "Bonchon",
+      "description": "Korean-style fried chicken with crispy texture and bold flavors.",
+      "image": "bonchon.jpg",
+      "menu": "https://bonchon.com"
+    }
+]  

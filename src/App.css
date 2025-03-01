@@ -1,0 +1,11 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(190, 190, 218);
+  font-family:'Courier New', Courier, monospace
+}
